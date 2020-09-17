@@ -5,6 +5,7 @@ package ehu.isad;
 
 public class App {
     public String getGreeting() {
+
         return "Kaixo Mundua";
     }
 
